@@ -1,0 +1,28 @@
+{
+  "name": "woocommerce-e2e-boilerplate",
+  "version": "1.0.0",
+  "description": "Are you looking to set up E2E tests for your WooCommerce extension? Then you can make use of the default WooCommerce E2E package.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poligonosapp/woocommerce-e2e-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poligonosapp/woocommerce-e2e-boilerplate/issues"
+  },
+  "homepage": "https://github.com/poligonosapp/woocommerce-e2e-boilerplate#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@woocommerce/e2e-core-tests": "^0.2.0"
+  }
+}
